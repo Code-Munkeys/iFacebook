@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>942395A9-0BE0-4CE2-B6B1-7B8D5B4AE348</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iFacebook</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8EAB007365BF5894CEF6B796F00FDC4F27D570BA</key>
+		<string>https://github.com/Code-Munkeys/iFacebook.git</string>
+		<key>D9F3F711CA95CCD0909EC3CECBA5BE29EEC0E87A</key>
+		<string>https://github.com/ayestaran/Hitched.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iFacebook.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8EAB007365BF5894CEF6B796F00FDC4F27D570BA</key>
+		<string>../..</string>
+		<key>D9F3F711CA95CCD0909EC3CECBA5BE29EEC0E87A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Code-Munkeys/iFacebook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8EAB007365BF5894CEF6B796F00FDC4F27D570BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D9F3F711CA95CCD0909EC3CECBA5BE29EEC0E87A</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8EAB007365BF5894CEF6B796F00FDC4F27D570BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iFacebook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
